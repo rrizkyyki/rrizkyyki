@@ -7,17 +7,7 @@
  <tr>
   <td>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-   </td>
-    <td> 
- <img src="https://img.shields.io/badge/AMD-Ryzen_3_3250U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 3">
-     </td>
-      <td>
- <img src="https://img.shields.io/badge/linux-ACER_Aspire_3-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Acer">
-      </td>
-       <td>
- <img src="https://img.shields.io/badge/AMD-Radeon_Vega_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
-        </td>
-</tr>
+ </tr>
 </table>
    </center>
 </div>
