@@ -1,4 +1,4 @@
-# Hello My Name Is Muhammad Rizky Maulana Darmawan !
+# Hi! My Name Is Muhammad Rizky Maulana Darmawan
 
 <div align="center">
 <h3 align="center">My Workspace</h3>
