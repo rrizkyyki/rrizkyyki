@@ -28,8 +28,6 @@
  
 <summary>Programming language</summary>
 
-> ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 > ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 > ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -120,7 +118,7 @@
 </details>
 
 <p align="center">
-:mailbox: <a href="">reksa.prayoga1012@gmail.com</a>
+:mailbox: <a href="">rrizkyyki@gmail.com</a>
 </p>
 
 
