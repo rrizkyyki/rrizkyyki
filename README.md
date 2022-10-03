@@ -13,6 +13,9 @@
    </center>
 </div>
 
+<img src = "https://github-readme-stats.vercel.app/api?username=rrizkyyki
+&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
+
 ### My Skill
 
 <details>
