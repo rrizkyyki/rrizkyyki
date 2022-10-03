@@ -1,19 +1,19 @@
 # Hi! My Name Is Muhammad Rizky Maulana Darmawan
 
 <div align="center">
-<h3 align="center">My Workspace</h3>
- <center>
-<table align="center" style="border:none;">
- <tr>
-  <td>
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  </td>
- </tr>
-</table>
+   <h3 align="center">My Workspace</h3>
+   <center>
+      <table align="center" style="border:none;">
+         <tr>
+            <td>
+               <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+            </td>
+         </tr>
+      </table>
    </center>
 </div>
 
-### My Skill 
+### My Skill
 
 <details>
  
@@ -27,7 +27,6 @@
 
 </details>
 
-
 <details>
 
 <summary>Backend Framework</summary>
@@ -38,16 +37,13 @@
 
 </details>
 
-
 <details>
 
 <summary>Frontend Framework</summary>
 
 > ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 > ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 </details>
 
@@ -82,7 +78,6 @@
 <p align="center">
 :mailbox: <a href="">rrizkyyki@gmail.com</a>
 </p>
-
 
 <!--
 **rrizkyyki/rrizkyyki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
